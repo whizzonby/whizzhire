@@ -10,9 +10,9 @@ session_start();
 
 // ─── Configuration ───────────────────────────────────────────
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'whizzhire');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_NAME', 'whizzhire_db');
+define('DB_USER', 'whizzhire_user');
+define('DB_PASS', 'Wh!zz0nby0869!');
 define('DB_CHARSET', 'utf8mb4');
 
 // Change this to a strong password!
